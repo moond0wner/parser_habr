@@ -1,4 +1,3 @@
-# ДОБАВИТЬ ТГ-БОТА; ОПЦИОНАЛЬНО АНАЛИТИКУ
 import logging
 
 from cli.config import get_value_from_data, change_quantity_pages
