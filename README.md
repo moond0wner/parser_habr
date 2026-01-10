@@ -27,7 +27,9 @@
 ▌🚀 Инструкция по установке
 
 1. Клонируйте репозиторий:
-   git clone https://github.com/moond0wner/parser_habr
+   1. git clone https://github.com/moond0wner/parser_habr
+   2. cd parser_habr
+
    
 
 2. Установите зависимости:
