@@ -1,0 +1,4 @@
+beautifulsoup
+requests
+streamlit
+pandas
