@@ -28,8 +28,8 @@
 
 1. Клонируйте репозиторий:
    
-   git clone https://github.com/moond0wner/habr-parser.git
-   cd habr-parser
+   1) git clone https://github.com/moond0wner/parser_habr
+   2) cd habr-parser
    
 
 2. Установите зависимости:
