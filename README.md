@@ -70,6 +70,6 @@ streamlit run app.py
 
 ▌👨‍💻 Автор
 
-[moond0wner](github.com/moond0wner)
+[moond0wner](https://github.com/moond0wner)
 
 ---
